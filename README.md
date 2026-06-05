@@ -1,6 +1,8 @@
 COC FARMING BOT
 Automated Clash of Clans Farming Bot
 
+![Alt text](images/docs/screenshot.png)
+
 REQUIREMENTS: 
   - Windows 7 10 or 11 (64-bit)
   - LDPlayer emulator installed and running
