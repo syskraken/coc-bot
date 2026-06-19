@@ -106,7 +106,7 @@ MIN_GOLD          = 200_000
 GOLD_ROI          = (65, 163, 377, 205)
 RAGE_DEPLOY_DELAY = 10   # default seconds to wait before dropping rage
 
-ATTACK_BTN_TEMPLATES     = ["attack_btn.png", "attack_btn_5star.png", "attack_btn_5star_v1.png","attack_btn_5star_v2.png", "attack_btn_5star_v3.png", "attack_btn_5star_v4.png", "attack_btn_w_check.png"]
+ATTACK_BTN_TEMPLATES     = ["attack_btn.png","attack_btn_map.png", "attack_btn_5star.png", "attack_btn_5star_v1.png","attack_btn_5star_v2.png", "attack_btn_5star_v3.png", "attack_btn_5star_v4.png", "attack_btn_w_check.png"]
 END_BATTLE_BUTTONS       = ["return_home_btn.png", "claim_reward_btn.png"]
 SETUP_END_BATTLE_BUTTONS = ["end_battle_btn.png", "return_home_btn.png", "claim_reward_btn.png"]
 POST_BATTLE_DISMISS      = ["okay_btn.png", "close_btn.png", "okay_btn_v2.png", "yes_btn.png"]
