@@ -1,0 +1,12 @@
+{
+  "num_troop_slots": 1,
+  "num_troops_total": 14,
+  "num_heroes": 3,
+  "num_spells": 0,
+  "spells_per_ad": 0,
+  "has_rage": true,
+  "num_rage": 5,
+  "rage_delay": 4,
+  "min_gold": 500000,
+  "setup_complete": true
+}
