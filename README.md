@@ -1,3 +1,8 @@
+
+# Youtube Tutorial:
+
+https://www.youtube.com/watch?v=SZFzFoWZHF4
+
 # COC Farming Bot
 
 Automated Clash of Clans Farming Bot
